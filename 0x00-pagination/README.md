@@ -1,1 +1,1 @@
-#0x00 pagination
+This is a README for my 0x00-pagination project!
